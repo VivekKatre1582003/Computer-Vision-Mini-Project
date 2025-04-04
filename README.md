@@ -1,4 +1,4 @@
-# 🧠 Feature Detection and Matching using OpenCV
+# Feature Detection and Matching using OpenCV
 
 This repository showcases classical computer vision techniques using OpenCV, including:
 
